@@ -9,6 +9,7 @@ Página Web generada para llevar control de tareas
  4. Zustand
  5. Drag & Drop
  6. talwind
+ 7. UI components
 
 Descripción 
 La página web realiza peticiones https para acceder a arreglo tipo json, te permite agragar tareas de dos formas (manual y a tavés de las peticiones), se encuentraformulado de tal manera que cuando una tarea es marcada como no completed, automáticamete se acomoda en la columna de "To do" y cuando una tarea se encuentra terminada, se agrupa dentro de la columna "completed", pero además puedes desplazar una tarea de una columna a otra mediante Drag & Drop (arrastrando la tarea), cuando arrastras la tarea de una columna a otra o la desplazas de lugar, esta cambia de color to do = rojo, completed = verde.
